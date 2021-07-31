@@ -451,8 +451,7 @@ h2
 {
     font-weight: bold;
     border-radius: 10px;
-    border-left : 2px solid;
-    border-bottom : 2px solid;
+    border : 2px solid;
     padding : 5px;
     margin:5px;
     color:black;
