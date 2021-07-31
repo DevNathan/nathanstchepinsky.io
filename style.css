@@ -451,41 +451,42 @@ h2
 {
     font-weight: bold;
     border-radius: 10px;
-    border : 2px solid;
+    border-left : 2px solid;
+    border-bottom : 2px solid;
     padding : 5px;
     margin:5px;
-    color:white;
+    color:black;
     box-shadow: 4px 4px 8px lightgray;
 }
 
 .link_container a
 {
-    color:white;
+    color:black;
 }
 
 .swiftyRSA .link_container p
 {
     border-color: rgba(240,134,56);
-    background: rgba(240,134,56);
+    bac/kground: rgba(240,134,56);
 }
 
 
 .iLocked .link_container p
 {
     border-color: rgba(235,51,35);
-    background: rgba(235,51,35);
+    back/ground: rgba(235,51,35);
 }
 
 .a2l .link_container p
 {
     border-color: rgba(9,28,245);
-    background: rgba(9,28,245);
+    backg/round: rgba(9,28,245);
 }
 
 .xss .link_container p
 {
     border-color: rgba(162,50,68);
-    background: rgba(162,50,68);
+    backgr/ound: rgba(162,50,68);
 }
 
 @media only screen and (max-device-width: 480px) {
